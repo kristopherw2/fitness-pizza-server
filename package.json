@@ -29,8 +29,8 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.20.8",
     "morgan": "^1.9.1",
-    "pg": "^7.17.1",
-    "postgrator-cli": "^3.3.0",
+    "pg": "^8.7.1",
+    "postgrator-cli": "^4.0.0",
     "xss": "^1.0.6"
   },
   "devDependencies": {
